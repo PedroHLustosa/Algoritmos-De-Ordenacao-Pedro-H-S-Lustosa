@@ -1,1 +1,0 @@
-# Algoritmos-De-Ordenacao-Pedro-H-S-Lustosa
